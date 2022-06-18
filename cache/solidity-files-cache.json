@@ -482,8 +482,8 @@
       ]
     },
     "/Users/ben/hh-fcc/hardhat-nft-fcc/contracts/RandomIpfsNft.sol": {
-      "lastModificationDate": 1655456616587,
-      "contentHash": "5e884074948ac2b3fc193cca27900d5a",
+      "lastModificationDate": 1655538471555,
+      "contentHash": "368f08fa7c888f33e1c355afb4b2e5bc",
       "sourceName": "contracts/RandomIpfsNft.sol",
       "solcConfig": {
         "version": "0.8.8",
