@@ -787,8 +787,8 @@
       "artifacts": []
     },
     "/Users/ben/hh-fcc/hardhat-nft-fcc/contracts/DynamicSvgNft.sol": {
-      "lastModificationDate": 1655729514743,
-      "contentHash": "ff89898153e820bbb93f2bd1061be4aa",
+      "lastModificationDate": 1655796884147,
+      "contentHash": "3acd27556597637bbfd50e2e5d38e605",
       "sourceName": "contracts/DynamicSvgNft.sol",
       "solcConfig": {
         "version": "0.8.8",
